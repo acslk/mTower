@@ -1,0 +1,14 @@
+number of floor, current floor
+hp, att, def, x, y, gold, exp of character
+key of character
+hp,att,def,gold,exp list of Mo
+value list of Item
+all obj of each floor, one floor each line, ended with -1
+
+*each obj is represented as: x, y, Obj type, type
+Obj type 	1 - Wall
+		2 - Mon
+		3 - Item
+		4 - Passable
+		5 - Gate
+		6 - NPC
